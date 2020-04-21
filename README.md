@@ -7,7 +7,7 @@ Your challenge is to use the MNIST dataset to correctly classify the different d
 ### The twist?
 1. You MUST use machine learning for this challenge and NO DEEP LEARNING.
 2. You MUST use a type of GridSearch in your algorithm to come up with the best hyperparameters to maximize your accuracy.
-3. It MUST have an accuracy of at least 70% accuracy
+3. It MUST have an accuracy of at least 70% 
 4. You MUST report one other metric besides accuracy (think back to our earlier presentations)
 
 To upload your solution, title it <your_name.py> or <your_name.ipynb> and place it in a new branch and pull request it to us to upload it to the master branch. You should print or place your metrics in your algorithm at some place so anyone could see it without having to look for it.
